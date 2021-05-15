@@ -4612,3 +4612,30 @@ INFO 2021-05-11 16:46:00,538 autoreload 597 Watching for file changes with StatR
 INFO 2021-05-11 16:46:05,631 basehttp 154 "GET / HTTP/1.1" 200 6522
 WARNING 2021-05-11 16:46:08,981 log 222 Not Found: /favicon.ico
 WARNING 2021-05-11 16:46:08,983 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 3984
+INFO 2021-05-12 11:39:50,127 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-05-12 11:43:13,780 basehttp 154 "GET / HTTP/1.1" 200 6522
+WARNING 2021-05-12 11:43:17,101 log 222 Not Found: /favicon.ico
+WARNING 2021-05-12 11:43:17,103 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 3984
+INFO 2021-05-15 13:59:31,587 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-05-15 13:59:36,243 basehttp 154 "GET / HTTP/1.1" 200 6522
+INFO 2021-05-15 13:59:36,782 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-05-15 13:59:36,797 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2021-05-15 13:59:37,056 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-05-15 13:59:37,075 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-05-15 13:59:37,076 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 530
+WARNING 2021-05-15 13:59:39,462 log 222 Not Found: /favicon.ico
+WARNING 2021-05-15 13:59:39,463 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 3984
+INFO 2021-05-15 13:59:42,769 basehttp 154 "GET /login/ HTTP/1.1" 200 3189
+INFO 2021-05-15 13:59:42,992 basehttp 154 "GET /static/js/login.js HTTP/1.1" 200 677
+INFO 2021-05-15 14:00:25,918 autoreload 217 D:\PycharmProjects\django_blog\libs\yuntongxun\sms.py changed, reloading.
+INFO 2021-05-15 14:00:29,366 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-05-15 14:14:10,709 autoreload 217 D:\PycharmProjects\django_blog\libs\yuntongxun\sms.py changed, reloading.
+INFO 2021-05-15 14:14:14,276 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-05-15 14:14:37,134 autoreload 217 D:\PycharmProjects\django_blog\libs\yuntongxun\sms.py changed, reloading.
+INFO 2021-05-15 14:14:41,748 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-05-15 14:15:03,488 autoreload 217 D:\PycharmProjects\django_blog\libs\yuntongxun\sms.py changed, reloading.
+INFO 2021-05-15 14:15:07,181 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-05-15 14:15:59,782 autoreload 217 D:\PycharmProjects\django_blog\libs\yuntongxun\sms.py changed, reloading.
+INFO 2021-05-15 14:16:03,141 autoreload 597 Watching for file changes with StatReloader
+INFO 2021-05-15 14:16:21,621 autoreload 217 D:\PycharmProjects\django_blog\libs\yuntongxun\sms.py changed, reloading.
+INFO 2021-05-15 14:16:25,617 autoreload 597 Watching for file changes with StatReloader
